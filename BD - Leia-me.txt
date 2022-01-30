@@ -1,0 +1,6 @@
+servidor: instanciasejoga.c8rmmclwt2ki.sa-east-1.rds.amazonaws.com
+
+usuário: adminSeJoga
+
+banco de dados:BD-SeJoga
+
